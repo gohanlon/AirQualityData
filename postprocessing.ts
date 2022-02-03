@@ -1,4 +1,4 @@
-import { readJSON, writeCSV } from 'https://deno.land/x/flat@0.0.11/mod.ts'
+import { readJSON, writeCSV } from 'https://deno.land/x/flat@0.0.14/mod.ts'
 
 /*
   {
